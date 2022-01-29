@@ -2,8 +2,11 @@
 Jenkins Build info from Python
 
 
-Just $ git clone https://github.com/luciangutu/jenkins-python.git
-then edit credentials.py and run it.
+Just 
+```
+$git clone https://github.com/luciangutu/jenkins-python.git
+```
+then edit **credentials.py** and run it.
 
 ToDo:
 - make it faster
